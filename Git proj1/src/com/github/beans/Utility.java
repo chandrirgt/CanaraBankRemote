@@ -14,4 +14,8 @@ public class Utility {
 		System.out.println("Utility.m1()....abc");
 		System.out.println("abc");
 	}
+	public void m5()
+	{
+		System.out.println("Utility.m5()");
+	}
 }
